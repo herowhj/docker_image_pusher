@@ -1,5 +1,4 @@
 redroid/redroid:14.0.0-latest
 redroid/redroid:13.0.0-latest
 redroid/redroid:12.0.0-latest
-redroid/redroid:11.0.0-latest
 
