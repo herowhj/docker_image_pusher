@@ -1,2 +1,1 @@
-redroid/redroid:10.0.0-latest
-redroid/redroid:9.0.0-latest
+redroid/redroid:8.1.0-latest
